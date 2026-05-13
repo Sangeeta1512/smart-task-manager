@@ -73,13 +73,28 @@ smart-task-manager/
 
 ## Screenshots
 
+### Dashboard
+
 ![Dashboard](assets/dashboard.png)
+
+---
+
+### Mobile Responsive View
 
 ![Mobile Responsive View](assets/mobile-view.png)
 
+---
+
+### Search and Filter
+
 ![Search and Filter](assets/search-filter.png)
 
+---
+
+### Swagger API Documentation
+
 ![Swagger API](assets/swagger-api.png)
+
 
 ---
 
